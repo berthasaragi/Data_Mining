@@ -1,0 +1,4 @@
+## Studi kasus : Analisis Performa Atlet Renang dalam Olimpiade melalui histori hasil perlombaan
+Sebagai salah satu olahraga utama dalam Olimpiade, renang telah menjadi sorotan utama dalam kompetisi global. Setiap Olimpiade menyaksikan peningkatan prestasi atlet renang dari berbagai negara. Studi ini bertujuan untuk menganalisis performa atlet renang dalam Olimpiade dengan menggunakan data historis hasil perlombaan untuk mengidentifikasi tren, pola, dan faktor-faktor yang memengaruhi kinerja atlet
+
+Studi ini akan memberikan wawasan mendalam tentang performa atlet renang dalam Olimpiade melalui analisis historis hasil perlombaan. Temuan dari studi ini dapat digunakan untuk membimbing strategi pelatihan, pengembangan teknologi, dan kebijakan olahraga untuk meningkatkan prestasi atlet renang di tingkat global.
